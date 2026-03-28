@@ -1,6 +1,4 @@
 # India-Power-Grid-Demand-Forecasting
-
-
 This project presents an end-to-end machine learning solution for forecasting India’s national electricity demand using historical hourly load data. The objective is to build a robust and interpretable predictive system that can assist in energy planning, demand management, and grid stability analysis.
 
 The dataset consists of time-series electricity consumption data, which is preprocessed and enriched through feature engineering. Key temporal features such as hour, day, month, year, and day of the week are extracted to capture seasonal and cyclical demand patterns. Additionally, lag-based features (lag-1 and lag-24) are incorporated to model short-term dependencies and daily consumption trends.
